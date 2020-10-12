@@ -4,10 +4,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ding-ding-sound.mp3"
   },
   {
-    "revision": "0160f1784547c6d0bfeb",
-    "url": "/css/chunk-034ee028.f250b8e2.css"
-  },
-  {
     "revision": "4c0ccf89683df4591816",
     "url": "/css/chunk-1c693520.7b229630.css"
   },
@@ -16,24 +12,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-3c407b20.7b229630.css"
   },
   {
-    "revision": "bfe3dc8f50e06698dded",
-    "url": "/css/chunk-cdd02de0.9c0eca70.css"
+    "revision": "1c9e14a6dd713daa54ae",
+    "url": "/css/chunk-59582193.62ff6be5.css"
+  },
+  {
+    "revision": "0fe1fd90eb5fe8b76afe",
+    "url": "/css/chunk-6eee8022.1efd34f7.css"
   },
   {
     "revision": "d51a0df40e87ca7249f8",
     "url": "/css/chunk-vendors.0eeeb910.css"
   },
   {
-    "revision": "0f58a867faa8e90e6e848eafc0e56c6e",
+    "revision": "63ea7178298fc6ca33f1de146ba989fa",
     "url": "/index.html"
   },
   {
-    "revision": "f870f376ba178d4a2018",
-    "url": "/js/app.a10f14f9.js"
-  },
-  {
-    "revision": "0160f1784547c6d0bfeb",
-    "url": "/js/chunk-034ee028.b0cf7172.js"
+    "revision": "758d606be217a99bf761",
+    "url": "/js/app.a34a9228.js"
   },
   {
     "revision": "4c0ccf89683df4591816",
@@ -56,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-3c407b20.620a5dce.js"
   },
   {
+    "revision": "1c9e14a6dd713daa54ae",
+    "url": "/js/chunk-59582193.62c3fd34.js"
+  },
+  {
     "revision": "396f6d3c0c99e563a164",
     "url": "/js/chunk-68332600.7735b746.js"
   },
@@ -68,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-69751eb4.1335dd89.js"
   },
   {
-    "revision": "221930cb40ce0796e647",
-    "url": "/js/chunk-74f41715.0c7b8d8a.js"
+    "revision": "0fe1fd90eb5fe8b76afe",
+    "url": "/js/chunk-6eee8022.95fd9ab2.js"
   },
   {
-    "revision": "bfe3dc8f50e06698dded",
-    "url": "/js/chunk-cdd02de0.11531687.js"
+    "revision": "221930cb40ce0796e647",
+    "url": "/js/chunk-74f41715.0c7b8d8a.js"
   },
   {
     "revision": "d51a0df40e87ca7249f8",
