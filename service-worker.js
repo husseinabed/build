@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.573b15c8d805532b3ff6bfa664c3db89.js"
+  "/precache-manifest.926d68e443ba87a9ac2a2424997295c8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "roa"});
