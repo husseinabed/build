@@ -4,16 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ding-ding-sound.mp3"
   },
   {
-    "revision": "2a20704d05d9c1bba466",
+    "revision": "5769e52233f44bc46738",
     "url": "/css/app.0d53adc7.css"
   },
   {
     "revision": "2227ec6af97addeaa501",
     "url": "/css/chunk-1500011e.ed506a49.css"
-  },
-  {
-    "revision": "2ff14ede24a4ac691e64",
-    "url": "/css/chunk-58cf8634.567a6bde.css"
   },
   {
     "revision": "03be39987b009f90afa0",
@@ -26,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1bde162257e879295a50",
     "url": "/css/chunk-e5891406.18e9aded.css"
+  },
+  {
+    "revision": "f2d0edf0937f923615f2",
+    "url": "/css/chunk-e5ac9f7e.4d84cb85.css"
   },
   {
     "revision": "27342de30f034701e290",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/blank-profile-picture.png"
   },
   {
-    "revision": "f052e93a35d2c9e86a4bab4bc0e4d3b2",
+    "revision": "7830cc850654e3d8b958128627de5fb6",
     "url": "/index.html"
   },
   {
-    "revision": "2a20704d05d9c1bba466",
-    "url": "/js/app.2f5beb15.js"
+    "revision": "5769e52233f44bc46738",
+    "url": "/js/app.cf85269a.js"
   },
   {
     "revision": "2227ec6af97addeaa501",
@@ -100,10 +100,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d22c6c6.eb525c86.js"
   },
   {
-    "revision": "2ff14ede24a4ac691e64",
-    "url": "/js/chunk-58cf8634.dbaa1479.js"
-  },
-  {
     "revision": "125d16df43c24f53e280",
     "url": "/js/chunk-62f87128.3c51d50e.js"
   },
@@ -140,12 +136,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-c8cb5782.94074b74.js"
   },
   {
+    "revision": "0ff5ef289d4c19d14d44",
+    "url": "/js/chunk-ca413c1e.cb7e043e.js"
+  },
+  {
     "revision": "1bde162257e879295a50",
     "url": "/js/chunk-e5891406.b77733d8.js"
   },
   {
-    "revision": "712bee50cba99cc970d9",
-    "url": "/js/chunk-f76347fc.b2d1693c.js"
+    "revision": "f2d0edf0937f923615f2",
+    "url": "/js/chunk-e5ac9f7e.12bac82f.js"
   },
   {
     "revision": "27342de30f034701e290",
