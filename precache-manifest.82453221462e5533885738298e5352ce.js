@@ -4,16 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ding-ding-sound.mp3"
   },
   {
-    "revision": "4ed1b7015960e22bdbe8",
+    "revision": "e80f154850e6ba6fbd85",
     "url": "/css/app.0d53adc7.css"
   },
   {
     "revision": "f8f7ba658b73f6f17a2c",
     "url": "/css/chunk-043f420a.c0e02772.css"
-  },
-  {
-    "revision": "8801a2c8e29ce48d8296",
-    "url": "/css/chunk-499a64e9.562232ed.css"
   },
   {
     "revision": "03be39987b009f90afa0",
@@ -32,6 +28,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/chunk-e5ac9f7e.4d84cb85.css"
   },
   {
+    "revision": "295521ac31519376aa33",
+    "url": "/css/chunk-f771e838.92da9b3d.css"
+  },
+  {
     "revision": "27342de30f034701e290",
     "url": "/css/chunk-vendors.c74fae4f.css"
   },
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/blank-profile-picture.png"
   },
   {
-    "revision": "0659bd79ceb59ae52c9e14a97d0216fd",
+    "revision": "3ccad5d7445888708218090de40b881f",
     "url": "/index.html"
   },
   {
-    "revision": "4ed1b7015960e22bdbe8",
-    "url": "/js/app.f2ef0d18.js"
+    "revision": "e80f154850e6ba6fbd85",
+    "url": "/js/app.33024d90.js"
   },
   {
     "revision": "f8f7ba658b73f6f17a2c",
@@ -104,10 +104,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d22c6c6.eb525c86.js"
   },
   {
-    "revision": "8801a2c8e29ce48d8296",
-    "url": "/js/chunk-499a64e9.d3827150.js"
-  },
-  {
     "revision": "98ec643b4f97db57f1fc",
     "url": "/js/chunk-62f87128.436cc11d.js"
   },
@@ -154,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6cc350d49f99b1bb22a4",
     "url": "/js/chunk-e5ac9f7e.9fa674c2.js"
+  },
+  {
+    "revision": "295521ac31519376aa33",
+    "url": "/js/chunk-f771e838.b4c69177.js"
   },
   {
     "revision": "27342de30f034701e290",
